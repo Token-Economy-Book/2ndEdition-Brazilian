@@ -1,3 +1,10 @@
+⚠️ **Outdated — This is a translation of the 2nd Edition of Token Economy (2020).**
+
+👉 **Current 3rd Edition (2025):**  
+• GitHub landing repo → <https://github.com/Token-Economy-Book/token-economy-current>  
+• Open-access web version → <https://token.kitchen/token-economy/third-edition>
+
+
 # Economia dos Tokens: Como a Web3 está reinventando a Internet e as relações entre os agentes económicos<br>
 Edição Brasileira <br>
 Traduzido de “Token Economy: How the Web3 reinvents the Internet”, Segunda Edição, Junho 2020. A primeira edição foi publicada pela BlokchcianHub Berlin em Junho de 2019 sob o título "Token Economy: How Blockchain & Smart contracts revolutionize the Economy" e teve duas edições alteradas.
